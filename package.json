@@ -12,11 +12,7 @@
   "devDependencies": {
     "@babel/preset-env": "^7.16.5",
     "@types/jest": "^27.0.3",
+    "babel-jest": "^29.7.0",
     "jest": "^27.4.5"
-  },
-  "jest": {
-    "transform": {
-      "^.+\\.[t|j]sx?$": "babel-jest"
-    }
   }
 }
